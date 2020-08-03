@@ -1,2 +1,4 @@
 core/migrations/
 core/__pycache__/
+simplemooc/__pycache__/
+courses/migrations/
